@@ -19,8 +19,8 @@
   - [React Router](https://v5.reactrouter.com/web/guides/quick-start)
     - `npm i react-router-dom@5.0.0`
   - [Flux](https://facebook.github.io/flux/)
-    - `npm i flu --legancy-peer-deps`
+    - `npm i flux --legacy-peer-deps`
   - [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
     - `npm i bootstrap@4.3.1`
 - Configure [Mock API](https://mockapi.io)
-
+  - `npm i -D cross-env@5.2.0 npm-run-all@4.1.5 json-server@0.15.0`
