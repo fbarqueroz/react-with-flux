@@ -17,7 +17,7 @@
 - Configure Prettier
 - Run `create-react-app`
 - Install
-  - [React Router] (https://v5.reactrouter.com/web/guides/quick-start)
-  - [Flux] (https://facebook.github.io/flux/)
-  - [Bootstrap] (https://getbootstrap.com/docs/5.2/getting-started/introduction/)
-- Configure [Mock API] (https://mockapi.io)
+  - [React Router](https://v5.reactrouter.com/web/guides/quick-start)
+  - [Flux](https://facebook.github.io/flux/)
+  - [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
+- Configure [Mock API](https://mockapi.io)
