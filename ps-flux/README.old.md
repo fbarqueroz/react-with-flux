@@ -13,11 +13,12 @@
 10. Flux Demos
 
 ## Enviroment Setup
-- Install Node
-- Configure Prettier
-- Run `create-react-app`
+- Install [Node](https://nodejs.org/es/)
+- Run **create-react-app**
+  - `npx create-react-app` + app name
 - Install
   - [React Router](https://v5.reactrouter.com/web/guides/quick-start)
   - [Flux](https://facebook.github.io/flux/)
   - [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 - Configure [Mock API](https://mockapi.io)
+
