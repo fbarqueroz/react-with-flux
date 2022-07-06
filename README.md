@@ -15,7 +15,6 @@
 - Install [Node](https://nodejs.org/es/)
 - Run **create-react-app**
   - `npx create-react-app` + app name
-  - >Run rect app `npm start`
 - Install
   - [React Router](https://v5.reactrouter.com/web/guides/quick-start)
     - `npm i react-router-dom@5.0.0`
