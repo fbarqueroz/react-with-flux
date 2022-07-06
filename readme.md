@@ -12,3 +12,12 @@
 9. Flux
 10. Flux Demos
 
+## Enviroment Setup
+- Install Node
+- Configure Prettier
+- Run `create-react-app`
+- Install
+- *React Router*
+- *Flux*
+- *Bootstrap*
+- Configure Mock API
