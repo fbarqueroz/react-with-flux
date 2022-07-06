@@ -17,7 +17,7 @@
 - Configure Prettier
 - Run `create-react-app`
 - Install
--   *React Router*
--   *Flux*
--   *Bootstrap*
+  - React Router
+  - Flux
+  - Bootstrap
 - Configure Mock API
